@@ -1,16 +1,15 @@
-## Hi there 👋
+👋 Hi, I'm Kiran KM, a passionate Computer Science Engineering student currently in my 3rd year at Rajagiri School of Engineering and Technology. 🚀
 
-<!--
-**Kirankmm/Kirankmm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm on a journey of learning and building projects in the realms of software development, algorithms, and emerging tech. I like solving real-world problems through code, contributing to open-source, and experimenting with new tools and frameworks.
 
-Here are some ideas to get you started:
+💡 I’m always eager to collaborate on interesting projects, explore new technologies, and expand my skillset. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Let's cook together! 
+
+⚙️ Skills: [C/Python/Java/C++/HTML]
+
+🌱 Currently exploring: [CSS,React & Flutter]
+
+___
+
+![Kiran's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Kirankmm&show_icons=true&theme=dracula#gh-dark-mode-only)](https://github.com/Kirankmm/github-readme-stats#gh-dark-mode-only)
