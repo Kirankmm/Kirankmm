@@ -1,7 +1,5 @@
 
 
-![Kiran's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Kirankmm&show_icons=true&theme=dracula#gh-dark-mode-only)]
-
 
 # 💫 About Me:
 I’m a 3rd-year Computer Science student at Rajagiri School of Engineering, with a passion for coding, AI, and solving real-world problems through technology. Always eager to learn and innovate, I thrive in dynamic, hands-on environments.
