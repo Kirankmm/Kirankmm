@@ -22,5 +22,12 @@ LET's CooK TogetheR!!!
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+<h3>✨ Dev Quote</h3>
+<blockquote>
+  <p style="color:#00ffff; font-style:italic;">
+    "The more I learn, the more I realize how much I don't know."
+  </p>
+  <p style="text-align:right; color:#888;">– Albert Einstein</p>
+</blockquote>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
