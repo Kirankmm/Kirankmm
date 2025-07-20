@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-I’m a 3rd-year Computer Science student at Rajagiri School of Engineering, with a passion for coding, AI, and solving real-world problems through technology. Always eager to learn and innovate, I thrive in dynamic, hands-on environments.
+Aspiring software developer with experience in building responsive web applications using modern web technologies including React. Comfortable working across the tech stack and eager to learn new tools and frameworks as needed. Passionate about solving real-world problems through technology and continuous learning.
 
 LET's CooK TogetheR!!!
 
